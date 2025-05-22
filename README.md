@@ -19,7 +19,8 @@ The project covers:
     *   **PyTorch Geometric (PyG):** For creating and working with graph neural networks.
     *   **Pandas:** For data manipulation and analysis.
     *   **NumPy:** For numerical operations.
-    *   **Scikit-learn:** For preprocessing (scaling, encoding), KNN, and evaluation metrics.
+    *   **Scikit-learn:** For preprocessing (scaling, encoding) and evaluation metrics.
+    *   ** FAISS: ** For ANN similarity search for edge creation
 *   **Data Visualization:** Matplotlib, Seaborn (for confusion matrix).
 *   **Dataset:** [IEEE-CIS Fraud Detection Dataset](https://www.kaggle.com/c/ieee-fraud-detection) (requires download from Kaggle).
 
